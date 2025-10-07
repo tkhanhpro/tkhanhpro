@@ -1,3 +1,5 @@
+<!-- 🌸 About Me - Nakano Miku Inspired Profile -->
+
 <div align="center" style="background: linear-gradient(145deg, #ffd6eb, #c8e8ff); padding: 40px; border-radius: 30px; box-shadow: 0 8px 32px rgba(255,182,193,0.3); position: relative; overflow: hidden; max-width: 650px; margin: 0 auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border: 1px solid rgba(255,255,255,0.2);">
   
   <!-- Subtle layered background for depth (inline) -->
@@ -19,7 +21,7 @@
   <h3 style="color:#8ac7db; font-size: 1.3em; margin: 0 0 15px 0; text-shadow: 0 2px 8px rgba(138, 199, 219, 0.3);">💻 Lập trình viên JS | Python | HTML (UI/UX Designer)</h3>
 
   <p style="font-size: 1.1em; color: #ff8eb8; margin: 20px 0; line-height: 1.5; font-style: italic; text-shadow: 0 1px 4px rgba(255, 142, 184, 0.2);">
-    “Tôi thích những dòng code gọn gàng, hiệu quả...”
+    “Tôi thích những dòng code gọn gàng, hiệu quả và có chút cảm xúc — như chính nhịp điệu của Nakano Miku.”
   </p>
 
   <!-- Elegant Divider -->
@@ -28,11 +30,11 @@
   <!-- Skills Section -->
   <h3 style="color:#ffb6c1; font-size: 1.4em; margin: 0 0 15px 0; text-shadow: 0 2px 4px rgba(255, 182, 193, 0.3);">⚙️ Kỹ năng chính</h3>
   <p align="center" style="margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50" style="background: linear-gradient(145deg, #F7DF1E, #FFD700); border: 2px solid #ffffff; border-radius: 50%; padding: 5px; box-shadow: 0 4px 12px rgba(247, 223, 30, 0.4); margin: 0 8px;" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="50" height="50" style="background: linear-gradient(145deg, #3776AB, #4B8BBE); border: 2px solid #ffffff; border-radius: 50%; padding: 5px; box-shadow: 0 4px 12px rgba(55, 118, 171, 0.4); margin: 0 8px;" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="50" height="50" style="background: linear-gradient(145deg, #E34F26, #F06529); border: 2px solid #ffffff; border-radius: 50%; padding: 5px; box-shadow: 0 4px 12px rgba(227, 79, 38, 0.4); margin: 0 8px;" alt="HTML"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" width="50" height="50" style="background: linear-gradient(145deg, #6cc24a, #90EE90); border: 2px solid #ffffff; border-radius: 50%; padding: 5px; box-shadow: 0 4px 12px rgba(108, 194, 74, 0.4); margin: 0 8px;" alt="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/termux.svg" width="50" height="50" style="background: linear-gradient(145deg, #000000, #333333); border: 2px solid #ffffff; border-radius: 50%; padding: 5px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); margin: 0 8px;" alt="Termux"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50" style="background: linear-gradient(145deg, #F7DF1E, #FFD700); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(247, 223, 30, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="50" height="50" style="background: linear-gradient(145deg, #3776AB, #4B8BBE); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(55, 118, 171, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="50" height="50" style="background: linear-gradient(145deg, #E34F26, #F06529); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(227, 79, 38, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="HTML"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" width="50" height="50" style="background: linear-gradient(145deg, #6cc24a, #90EE90); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(108, 194, 74, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="Node.js"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/android.svg" width="50" height="50" style="background: linear-gradient(145deg, #3DDC84, #4CAF50); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(61, 220, 132, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="Termux"/>
   </p>
 
   <ul style="list-style: none; padding: 0; max-width: 500px; margin: 0 auto;">
@@ -56,11 +58,11 @@
   <!-- Contact Section -->
   <h3 style="color:#6fc2e0; font-size: 1.4em; margin: 30px 0 15px 0; text-shadow: 0 2px 4px rgba(111, 194, 224, 0.3);">🌐 Liên hệ</h3>
   <p align="center" style="margin-bottom: 25px;">
-    <a href="https://github.com/tkhanhpro" style="text-decoration: none; display: inline-block; margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="60" height="60" style="background: linear-gradient(145deg, #6fc2e0, #87CEEB); border: 3px solid #ffffff; border-radius: 50%; padding: 6px; box-shadow: 0 6px 20px rgba(111, 194, 224, 0.5);" alt="GitHub"/>
+    <a href="https://www.facebook.com/TKhanh.Dev" style="text-decoration: none; display: inline-block; margin: 0 15px;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="60" height="60" style="background: linear-gradient(145deg, #1877F2, #0A5A9F); border: 3px solid #ffffff; border-radius: 50%; padding: 6px; box-shadow: 0 6px 20px rgba(24, 119, 242, 0.5); filter: brightness(1.1);" alt="Facebook"/>
     </a>
     <a href="https://t.me/0837846428" style="text-decoration: none; display: inline-block; margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="60" height="60" style="background: linear-gradient(145deg, #ffb6c1, #FF69B4); border: 3px solid #ffffff; border-radius: 50%; padding: 6px; box-shadow: 0 6px 20px rgba(255, 182, 193, 0.5);" alt="Telegram"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="60" height="60" style="background: linear-gradient(145deg, #ffb6c1, #FF69B4); border: 3px solid #ffffff; border-radius: 50%; padding: 6px; box-shadow: 0 6px 20px rgba(255, 182, 193, 0.5); filter: brightness(1.1);" alt="Telegram"/>
     </a>
   </p>
 
