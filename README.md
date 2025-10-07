@@ -1,5 +1,3 @@
-<!-- 🌸 About Me - Nakano Miku Inspired Profile -->
-
 <div align="center" style="background: linear-gradient(145deg, #ffd6eb, #c8e8ff); padding: 40px; border-radius: 30px; box-shadow: 0 8px 32px rgba(255,182,193,0.3); position: relative; overflow: hidden; max-width: 650px; margin: 0 auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border: 1px solid rgba(255,255,255,0.2);">
   
   <!-- Subtle layered background for depth (inline) -->
@@ -21,7 +19,7 @@
   <h3 style="color:#8ac7db; font-size: 1.3em; margin: 0 0 15px 0; text-shadow: 0 2px 8px rgba(138, 199, 219, 0.3);">💻 Lập trình viên JS | Python | HTML (UI/UX Designer)</h3>
 
   <p style="font-size: 1.1em; color: #ff8eb8; margin: 20px 0; line-height: 1.5; font-style: italic; text-shadow: 0 1px 4px rgba(255, 142, 184, 0.2);">
-    “Tôi thích những dòng code gọn gàng, hiệu quả và có chút cảm xúc — như chính nhịp điệu của Nakano Miku.”
+    “Tôi thích những dòng code gọn gàng, hiệu quả...”
   </p>
 
   <!-- Elegant Divider -->
@@ -58,10 +56,10 @@
   <!-- Contact Section -->
   <h3 style="color:#6fc2e0; font-size: 1.4em; margin: 30px 0 15px 0; text-shadow: 0 2px 4px rgba(111, 194, 224, 0.3);">🌐 Liên hệ</h3>
   <p align="center" style="margin-bottom: 25px;">
-    <a href="https://github.com/<tên_github_của_bạn>" style="text-decoration: none; display: inline-block; margin: 0 15px;">
+    <a href="https://github.com/tkhanhpro" style="text-decoration: none; display: inline-block; margin: 0 15px;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="60" height="60" style="background: linear-gradient(145deg, #6fc2e0, #87CEEB); border: 3px solid #ffffff; border-radius: 50%; padding: 6px; box-shadow: 0 6px 20px rgba(111, 194, 224, 0.5);" alt="GitHub"/>
     </a>
-    <a href="https://t.me/<tên_telegram_của_bạn>" style="text-decoration: none; display: inline-block; margin: 0 15px;">
+    <a href="https://t.me/0837846428" style="text-decoration: none; display: inline-block; margin: 0 15px;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="60" height="60" style="background: linear-gradient(145deg, #ffb6c1, #FF69B4); border: 3px solid #ffffff; border-radius: 50%; padding: 6px; box-shadow: 0 6px 20px rgba(255, 182, 193, 0.5);" alt="Telegram"/>
     </a>
   </p>
@@ -75,5 +73,5 @@
 </div>
 
 <p align="center" style="color: #ff8eb8; font-size: 0.95em; margin-top: 15px; font-style: italic; text-shadow: 0 1px 3px rgba(255, 142, 184, 0.2);">
-  💙 Giao diện lấy cảm hứng từ Nakano Miku – Go-toubun no Hanayome 💖
+  💤 Copyright by TKhanh - 7/10/2025 🌸
 </p>
