@@ -30,11 +30,11 @@
   <!-- Skills Section -->
   <h3 style="color:#ffb6c1; font-size: 1.4em; margin: 0 0 15px 0; text-shadow: 0 2px 4px rgba(255, 182, 193, 0.3);">⚙️ Kỹ năng chính</h3>
   <p align="center" style="margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="50" height="50" style="background: linear-gradient(145deg, #F7DF1E, #FFD700); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(247, 223, 30, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="50" height="50" style="background: linear-gradient(145deg, #3776AB, #4B8BBE); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(55, 118, 171, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="50" height="50" style="background: linear-gradient(145deg, #E34F26, #F06529); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(227, 79, 38, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="HTML"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg" width="50" height="50" style="background: linear-gradient(145deg, #6cc24a, #90EE90); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(108, 194, 74, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="Node.js"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/android.svg" width="50" height="50" style="background: linear-gradient(145deg, #3DDC84, #4CAF50); border: 2px solid #ffffff; border-radius: 50%; padding: 8px; box-shadow: 0 4px 12px rgba(61, 220, 132, 0.4); margin: 0 8px; filter: brightness(1.1);" alt="Termux"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="80" height="30" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(247, 223, 30, 0.4); margin: 0 5px;" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="80" height="30" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(55, 118, 171, 0.4); margin: 0 5px;" alt="Python"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80" height="30" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(227, 79, 38, 0.4); margin: 0 5px;" alt="HTML"/>
+    <img src="https://img.shields.io/badge/Node.js-6cc24a?style=for-the-badge&logo=node.js&logoColor=white" width="80" height="30" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(108, 194, 74, 0.4); margin: 0 5px;" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white" width="80" height="30" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); margin: 0 5px;" alt="Termux"/>
   </p>
 
   <ul style="list-style: none; padding: 0; max-width: 500px; margin: 0 auto;">
@@ -59,10 +59,10 @@
   <h3 style="color:#6fc2e0; font-size: 1.4em; margin: 30px 0 15px 0; text-shadow: 0 2px 4px rgba(111, 194, 224, 0.3);">🌐 Liên hệ</h3>
   <p align="center" style="margin-bottom: 25px;">
     <a href="https://www.facebook.com/TKhanh.Dev" style="text-decoration: none; display: inline-block; margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="60" height="60" style="background: linear-gradient(145deg, #1877F2, #0A5A9F); border: 3px solid #ffffff; border-radius: 50%; padding: 6px; box-shadow: 0 6px 20px rgba(24, 119, 242, 0.5); filter: brightness(1.1);" alt="Facebook"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100" height="30" style="border-radius: 15px; box-shadow: 0 6px 20px rgba(24, 119, 242, 0.5);" alt="Facebook"/>
     </a>
     <a href="https://t.me/0837846428" style="text-decoration: none; display: inline-block; margin: 0 15px;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="60" height="60" style="background: linear-gradient(145deg, #ffb6c1, #FF69B4); border: 3px solid #ffffff; border-radius: 50%; padding: 6px; box-shadow: 0 6px 20px rgba(255, 182, 193, 0.5); filter: brightness(1.1);" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="100" height="30" style="border-radius: 15px; background: linear-gradient(145deg, #ffb6c1, #FF69B4); box-shadow: 0 6px 20px rgba(255, 182, 193, 0.5);" alt="Telegram"/>
     </a>
   </p>
 
